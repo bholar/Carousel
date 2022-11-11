@@ -32,3 +32,4 @@ If you have any feedback, please reach out to me at bolarinwaokusany@gmail.com
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
+# carousel
